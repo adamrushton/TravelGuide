@@ -58,7 +58,7 @@ An advanced, professional looking travel application that allows you to view wea
 
 **The scenario of trying to load the favourite countries listing when you have no countries favourited**
 
-![image](https://user-images.githubusercontent.com/13036791/35988306-fd33d86e-0cf5-11e8-95f2-c0eb022d462c.png)
+![image](https://user-images.githubusercontent.com/13036791/35988499-716537c8-0cf6-11e8-8506-060b0b6c67dd.png)
 
 **The scenario of trying to load the favourite cities listing when you have no cities favourited**
 
