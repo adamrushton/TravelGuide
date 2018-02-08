@@ -1,5 +1,5 @@
 # TravelGuide
-### **Travel Guide Languages:**
+### **Languages:**
 Java, XML using Android Studio. 
 
 ### **Description:** 
